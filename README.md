@@ -1,2 +1,3 @@
-# Programaci-n-UEA-
-semana 11: tarea de arreglos 
+Tareas UEA
+Fundamentos de la programación
+
